@@ -1,7 +1,7 @@
 // JavaScript Document
  //select the element that we want to work with 
   let input = document.getElementById("access");
-  let submit = document.getElementById("submit")
+  let submit = document.getElementById("submit");
   let section = document.querySelector("section");
   let h2 = document.querySelector("h2");
   let p = document.querySelector("p");
@@ -35,6 +35,6 @@
     }
     else {
       h2.textContent = "Usercode not found";
-      p.textContent = "this code was not found"
+      p.textContent = "this code was not found";
     }
   }

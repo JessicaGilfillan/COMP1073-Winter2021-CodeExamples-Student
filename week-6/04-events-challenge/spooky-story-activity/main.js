@@ -36,5 +36,3 @@ function finishTheStory() {
 
 
 /* When the user clicks the tell me what happened button, finish the story should be invoked */
-
-
